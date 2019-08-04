@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mleela/fetch_service/issues"
   },
-  "homepage": "https://github.com/mleela/fetch_service#readme"
+  "homepage": "https://github.com/mleela/fetch_service#readme",
+  "dependencies": {
+    "react": "^16.8.6"
+  }
 }
